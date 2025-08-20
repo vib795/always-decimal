@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "always-decimal"
-version = "0.1.0"
+version = "1.0.0"
 description = "Coerce floats/strings/Decimals to Decimal with predictable scale and rounding."
 readme = "README.md"
 requires-python = ">=3.10"
